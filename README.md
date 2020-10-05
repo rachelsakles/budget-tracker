@@ -11,7 +11,8 @@
   You first need to run npm install to install all the dependencies, then start the server by running npm start. Local host is set to 3000.
   ## Usage
   Once the app is running, it will show you the total amount of money you have. You can enter the name of the transaction, transaction amount, and whether you are adding or subtracting funds. There is also a graph to show your total balance for each day over time. 
-  ## Example
+  ## Example 
+  Deployed URL: https://warm-shelf-68363.herokuapp.com
   ![budget-tracker](public/assets/budget.png)
    
   
